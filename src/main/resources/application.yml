@@ -1,0 +1,14 @@
+#百度AI(人脸识别参数)
+baidu:
+  ai:
+    app_id: 14676208
+    api_key: gCnDTbPuDtGpFFE5DfD8CkjN
+    sercet_key: iC1jGwkCxIYrId5k30Ciw1rMTVtUcxL6
+    token: 24.ea0f1486655477061f942c7cd342451b.2592000.1543987856.282335-14676208
+    client:
+      proxy_host: 127.0.0.1
+      proxy_port: 3036
+
+#服务端口
+server:
+  port: 8081
